@@ -1,0 +1,29 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    
+}
+body{
+    
+    
+
+}
+.image1{
+    width: 350px;
+    height:350px;
+    border-radius:50% ;
+    box-shadow: 30px;
+}
+
+  .texth{
+      color: green;
+      font-weight: 900 ;
+  }
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 50px;
+
+}
